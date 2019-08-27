@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-25_2020",
-    "currentPage": "page6.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -52,7 +52,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 122,
+    "uniqCompNum": 123,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1132,8 +1132,8 @@
         },
         {
           "_params": {
-            "token": "9520887532.727bfe1.8ed654b6e3a74e43b712d14426c6dd22",
-            "showTitle": true,
+            "token": "9520887532.727bfe1.0649d9af89fd4046b2d012fffa1f9f2a",
+            "showTitle": false,
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
             "rows": 2,
@@ -1142,7 +1142,7 @@
             "imagesPerRowSlider": 4,
             "spacing": 5,
             "fullWidth": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -1152,21 +1152,16 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "También puedes contactar conmigo a través de mi perfil en Instagram",
+          "title": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-7",
+          "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
           "_tags": [
             "Extensión"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-1h",
-          "_styles": {
-            ".inst__title": {
-              "color": "#767676"
-            }
-          }
+          "_anchor": "instagram-feed-block-3e"
         }
       ]
     },
