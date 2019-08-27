@@ -1133,7 +1133,7 @@
         {
           "_params": {
             "token": "9520887532.727bfe1.0649d9af89fd4046b2d012fffa1f9f2a",
-            "showTitle": false,
+            "showTitle": true,
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
             "rows": 2,
@@ -1152,16 +1152,21 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "",
+          "title": "También p<i>u</i>edes contactar conmigo a través de mi perfil en Instagram",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
+          "display2": "display-7",
           "display4": "display-4",
           "alias": "instagram-feed",
           "_tags": [
             "Extensión"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-3e"
+          "_anchor": "instagram-feed-block-3e",
+          "_styles": {
+            ".inst__title": {
+              "color": "#767676"
+            }
+          }
         }
       ]
     },
